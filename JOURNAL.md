@@ -25,7 +25,7 @@ after finishing the journals i had a much more complete record of how pocket arc
 after finishing the wiring diagram i started working on the github repository for pocket arcade. i wanted to keep all the project files in one place so that anyone interested in the console could understand how it was built and even recreate it themselves.
 
 i started by setting up the repository and organising the project files. i wanted the code, wiring diagram and other design-related files to be easy to find instead of having everything mixed together.
-![image.png](https://cdn.hackclub.com/01a1acc4-2263-761a-94f2-c27d7aab96f7/image.png)
+<img width="1334" height="1048" alt="image" src="https://github.com/user-attachments/assets/a123b680-c1da-4232-a87d-ea5e3e8dc232" />
 then i started writing the README. i wanted it to explain what pocket arcade actually is, what components i used and what features i had managed to implement. i added information about the ESP32, TFT display, joystick, buttons, buzzer and RGB LED, along with an overview of the four games.
 
 i also included the hardware pin connections and wiring information so that someone going through the repository could understand how everything was connected. i wanted the README to be useful as documentation rather than just a short description of the project.
