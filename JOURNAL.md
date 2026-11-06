@@ -8,8 +8,6 @@ created_at: "2026-11-06"
 
 **Total time spent: 3 hours**
 
-# writing the project journals
-
 after getting the main development work documented on github i also wanted to organise the progress i had made throughout the project. i went back through the different stages of building pocket arcade, starting from the initial idea and hardware setup all the way to the games, cad design, soldering and assembly.
 
 i started writing separate journals for each major stage so that the development process would be easier to follow. i included what i worked on, the problems i faced and the changes i made along the way.
