@@ -70,7 +70,7 @@ i have used the following pin connections for the main pocket arcade hardware. y
 
 ### Main Connections
 
-<img width="2074" height="1676" alt="image" src="https://github.com/user-attachments/assets/cd52e655-ace5-429d-9cbb-651fb1fba9ec" />
+<img width="1334" height="1048" alt="image" src="https://github.com/user-attachments/assets/608bb83c-e5a6-4a2b-a4b1-ac23738f83a8" />
 
 ### TFT Display to ESP32
 
