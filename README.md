@@ -376,3 +376,4 @@ it was a good way to learn more about embedded programming, display interfaces, 
 there is still room to improve the enclosure and add more features, but the main goal was to create a handheld console that i designed and programmed myself.
 
 pocket arcade is an ongoing personal project and the codebase can be used as a starting point for anyone interested in making their own ESP32 based handheld gaming console.
+Working link : https://youtu.be/sCnyAgIjoiU
