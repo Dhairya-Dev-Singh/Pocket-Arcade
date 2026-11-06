@@ -1,0 +1,11 @@
+component,quantity,purpose,purchase_link,price_usd
+ESP32 development board with CP2102 (30-pin),1,Main controller and game processing,https://robocraze.com/products/esp32-development-board-with-cp2102-wifi-bluetooth-dual-core-30-pin?variant=53806381531360,4.75
+2.4-inch SPI TFT display (240x320),1,Game graphics and user interface,https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/,7.5
+PS2 joystick module,1,Game controls and menu navigation,https://robu.in/product/joystick-module-ps2-breakout-sensor/,0.5
+Tactile push buttons (12x12mm),1 pack (5 pieces),"A, B, START and SELECT controls",https://robocraze.com/products/tactile-push-button-switch-4-pin-12x12x5mm-pack-of-5?variant=48070563070176,0.1
+Active buzzer module,1,Sound effects and game feedback,https://robocraze.com/products/pcb-mounted-active-buzzer-module?variant=51266183561440,0.3
+RGB LED module,1,Visual feedback and status indication,https://robocraze.com/products/rgb-led-module-for-boards-compatible-with-arduino?variant=40194394685593,0.3
+Jumper wires,As required,Initial prototyping and connections,,
+Solder and connecting wires,As required,Permanent hardware connections,,
+USB cable,1,Programming and powering the ESP32,,
+3D-printed enclosure,1,Holds and protects all components,Self-designed,
